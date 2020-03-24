@@ -1,2 +1,1 @@
-# thonny-stalya
-Plug-in for Thonny IDE which adds Stalya Boards MicroPython backend
+https://github.com/thonny/thonny/wiki/MicroPython
